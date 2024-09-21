@@ -78,6 +78,6 @@ ng generate service nombre-servicio
 Un servicio es útil para manejar la lógica de la aplicación y compartir datos entre componentes.
 
 ## Recursos adicionales
- * [![Documentación oficial de Angular](https://angular.dev/overview)]
- * [![Tutoriales de Angular](https://angular.dev/tutorials)]
+ * [[Documentación oficial de Angular](https://angular.dev/overview)]
+ * [[Tutoriales de Angular](https://angular.dev/tutorials)]
 
