@@ -37,7 +37,7 @@ Por defecto, tu aplicación estará disponible en http://localhost:4200.
 ## Estructura del proyecto
 
 Después de generar un proyecto con Angular CLI, la estructura del directorio será la siguiente:
-
+```
 ├── src
 │   ├── app
 │   │   ├── app.component.html
@@ -48,6 +48,7 @@ Después de generar un proyecto con Angular CLI, la estructura del directorio se
 ├── angular.json
 ├── package.json
 └── tsconfig.json
+```
 
 ## Descripción de los archivos principales:
 
